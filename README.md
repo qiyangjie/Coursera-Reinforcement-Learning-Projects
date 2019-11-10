@@ -12,6 +12,8 @@
 
 > The tools learned in this Specialization can be applied to game development (AI), customer interaction (how a website interacts with customers), smart assistants, recommender systems, supply chain, industrial control, finance, oil & gas pipelines, industrial control systems, and more.
 
+## Programming Assignments
+
 - Course 1: Fundamentals of Reinforcement Learning
 
   - [Learning Objectives](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/01Fundamentals_of_Reinforcement_Learning/Course1_Learning_Objectives.pdf)
