@@ -43,3 +43,14 @@
   - [Function Approximation and Control](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/03Prediction_and_Control_with_Function_Approximation/03Function_Approximation_and_Control.ipynb)
   
   - [Average Reward Softmax Actor-Critic](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/03Prediction_and_Control_with_Function_Approximation/04Average_Reward_Softmax_Actor-Critic.ipynb)
+
+- Course 3: Prediction and Control with Function Approximation
+
+  - [Learning Objectives](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/04A_Complete_Reinforcement_Learning_System/Course4_Learning_Objectives.pdf)
+  
+  - [MoonShot Technologies](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/04A_Complete_Reinforcement_Learning_System/01MoonShot_Technologies.ipynb)
+
+  - [Implement your agent](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/04A_Complete_Reinforcement_Learning_System/02Implement_your_agent.ipynb)
+  
+  - [Completing the Parameter Study](https://github.com/LucasBoTang/Coursera_Reinforcement_Learning/blob/master/04A_Complete_Reinforcement_Learning_System/03Completing_the_Parameter_Study.ipynb)
+  
