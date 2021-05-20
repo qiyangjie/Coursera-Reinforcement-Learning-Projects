@@ -1,4 +1,5 @@
-# Reinforcement Learning Specialization
+# Reinforcement Learning Projects
+Those projects are forked from  LucasBoTang/Coursera_Reinforcement_Learning and would be used for learning propuse.
 
 [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) by University of Alberta & Alberta Machine Intelligence Institute on Coursera.
 
